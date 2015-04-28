@@ -1,13 +1,13 @@
 #  Talent Bee website
 
-### to run
+## to run application
 
-## startup local mongo database
+### startup local mongo database
 - open new terminal
 - cd /Users/chi/dev/talentbee
 - ./runmongodb
 
-## startup your app
+### startup your app
 - open new terminal
 - cd /Users/chi/dev/talentbee
 - npm install
