@@ -20,6 +20,7 @@ var mongoose = require('mongoose');
 var passport = require('passport');
 var expressValidator = require('express-validator');
 var connectAssets = require('connect-assets');
+var dotenv = require('dotenv').load();
 
 /**
  * Controllers (route handlers).
